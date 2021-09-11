@@ -6,7 +6,7 @@
 - 🤔 I am looking for help with the MVC model -> Model;
   More than everything in the parameterization of the controllers.
 - 💬 Ask me about  PHP, Servidores linux, AWS.
-- 📫 How to contact me: yeimar112003@gmail.com
+- 📫 How to contact me: 
 - 😄 Pronouns:
 Yeimar Lemus
 - ⚡ Fun fact:
