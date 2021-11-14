@@ -1,14 +1,9 @@
-### <h1 align="center">Hi there 👋,My name is Yeimar</h1>
+### <h1 align="center">Hola 👋,My Nombre es YEIMAR</h1>
 
-- 🔭 I am currently working in PHP developing an education system using the MVC programming framework.
-- 🌱 I am currently learning Python, PHP, Github, git, AWS, PostgreSql, Java.
-- 👯 I am looking to collaborate in an open source system in order to contribute to the Open Source community.
-- 🤔 I am looking for help with the MVC model -> Model;
-  More than everything in the parameterization of the controllers.
-- 💬 Ask me about  PHP, Servidores linux, AWS.
-- 📫 How to contact me: 
-- 😄 Pronouns:
-Yeimar Lemus
-- ⚡ Fun fact:
-Learning while you play is the best.
-
+- 🔭 Actualmente estoy trabajando en PHP desarrollando un sistema educativo usando el marco de programación MVC.
+- 🌱 Actualmente estoy aprendiendo PHP.
+- 👯 Estoy buscando colaborar en un sistema de código abierto para contribuir a la comunidad de código abierto.
+- 🤔 Estoy buscando ayuda con el modelo MVC -> Modelo; Más que todo en la parametrización de los controladores.
+- 💬 Pregúntame sobre PHP, Servidores linux, AWS.
+- 📫 Cómo contactarme:
+- ⚡ Dato curioso: aprender mientras juegas es lo mejor.
