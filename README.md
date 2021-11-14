@@ -1,4 +1,4 @@
-### <h1 align="center">Hola 👋,My Nombre es YEIMAR</h1>
+### <h1 align="center">Hola 👋,Mi Nombre es YEIMAR</h1>
 
 - 🔭 Actualmente estoy trabajando en PHP desarrollando un sistema educativo usando el marco de programación MVC.
 - 🌱 Actualmente estoy aprendiendo PHP.
