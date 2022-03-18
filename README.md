@@ -7,7 +7,7 @@ Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I real
 
 <p align="left"> <a href="https://twitter.com/usyeimar" target="blank"><img src="https://img.shields.io/twitter/follow/usyeimar?logo=twitter&style=for-the-badge" alt="usyeimar" /></a> </p>
 ## Skills and Experience
-*PHP
+* PHP
 * GIT
 * JS
 * CSS
