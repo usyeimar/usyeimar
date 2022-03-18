@@ -1,9 +1,10 @@
 ### Hi there 👋, my name is  YEIMAR
 #### Passionate about learning and exploring new technologies and experiences
+![Profile views](https://gpvc.arturio.dev/usyeimar)  
 ![Passionate about learning and exploring new technologies and experiences](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I really enjoy learning languages and frameworks like PHP as well as working on linux. I also enjoy working with Javscript, Nodejs, Sass and other tools with which by integrating them I can create wonderful things.
-![Profile views](https://gpvc.arturio.dev/usyeimar)  
+
 Skills: PHP / GIT / JS / HTML / CSS / SQL 
 
 - 🌱 I’m currently learning **bulma,angular,sass,linux servers**
