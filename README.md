@@ -1,4 +1,4 @@
-### Hi there 👋, my name is  YEIMAR
+### <h1 align="center">Hi there 👋,my name is  YEIMAR</h1>
 #### Passionate about learning and exploring new technologies and experiences
 ![Profile views](https://gpvc.arturio.dev/usyeimar)  
 ![Passionate about learning and exploring new technologies and experiences](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
