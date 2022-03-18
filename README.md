@@ -7,13 +7,6 @@ Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I real
 
 <p align="left"> <a href="https://twitter.com/usyeimar" target="blank"><img src="https://img.shields.io/twitter/follow/usyeimar?logo=twitter&style=for-the-badge" alt="usyeimar" /></a> </p>
 
-## Skills and Experience
-*PHP
-*GIT
-*JS
-*CSS
-*SQL
-
 - 🌱 I’m currently learning **bulma,angular,sass,linux servers**
 
 - 🤝 I’m looking for help with [Google-Drive-APi-PHP](https://github.com/AOSTools/googledrive-api)
