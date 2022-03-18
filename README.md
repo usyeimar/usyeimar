@@ -6,7 +6,12 @@
 Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I really enjoy learning languages and frameworks like PHP as well as working on linux. I also enjoy working with Javscript, Nodejs, Sass and other tools with which by integrating them I can create wonderful things.
 
 <p align="left"> <a href="https://twitter.com/usyeimar" target="blank"><img src="https://img.shields.io/twitter/follow/usyeimar?logo=twitter&style=for-the-badge" alt="usyeimar" /></a> </p>
-Skills: PHP / GIT / JS / HTML / CSS / SQL 
+## Skills and Experience
+*PHP
+* GIT
+* JS
+* CSS
+* SQL
 
 - 🌱 I’m currently learning **bulma,angular,sass,linux servers**
 
