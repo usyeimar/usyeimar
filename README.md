@@ -5,7 +5,8 @@
 
 Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I really enjoy learning languages and frameworks like PHP as well as working on linux. I also enjoy working with Javscript, Nodejs, Sass and other tools with which by integrating them I can create wonderful things.
 
-<p align="left"> <a href="https://twitter.com/usyeimar" target="blank"><img src="https://img.shields.io/twitter/follow/usyeimar?logo=twitter&style=for-the-badge" alt="usyeimar" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usyeimar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/usyeimar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/usyeimar)
+
 
 - 🌱 I’m currently learning **bulma,angular,sass,linux servers**
 
@@ -19,4 +20,3 @@ Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I real
 
 - ⚡ Fun fact **learning while playing is the best**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usyeimar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/usyeimar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/usyeimar)
