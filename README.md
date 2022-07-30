@@ -20,4 +20,3 @@ Hi there, I am YEIMAR Fullstack Developer, and I create Web Applications. I real
 
 - ⚡ Fun fact **learning while playing is the best**
 
-<a href="https://app.daily.dev/YEIMAR"><img src="https://api.daily.dev/devcards/529d6c9779bf45b3a3c5829140105e27.png?r=dtg" width="400" alt="YEIMAR LEMUS's Dev Card"/></a>
