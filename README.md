@@ -76,7 +76,6 @@ I design and ship full-stack systems across backend, frontend, and increasingly 
 | Project | Stack | What it is |
 | --- | --- | --- |
 | [**customer-fast-api**](https://github.com/usyeimar/customer-fast-api) | Python · FastAPI | High-performance backend for customers, transactions, and subscription plans |
-| [**pragma-power-up-backend-home-360**](https://github.com/usyeimar/pragma-power-up-backend-home-360) | Java · Spring Cloud · Eureka · MySQL | Real estate platform built on microservices with API Gateway and service discovery |
 | [**pipecat-help-desk-tito.ai**](https://github.com/usyeimar/pipecat-help-desk-tito.ai) | Python · Pipecat | Help desk AI voice assistant for real-time conversations |
 | [**backend-exam-nestjs-test-treda-solutions**](https://github.com/usyeimar/backend-exam-nestjs-test-treda-solutions) | TypeScript · NestJS | Production-ready NestJS backend technical assessment |
 
