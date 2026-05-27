@@ -16,7 +16,6 @@ I design and ship full-stack systems across backend, frontend, and increasingly 
 
 - 🤖 Currently focused on **AI voice agents, real-time conversational systems, and telephony infrastructure**
 - 🛠️ Building with **TypeScript, Python (FastAPI), Java (Spring), NestJS, and Go**
-- 🎓 Graduated from **Pragma Power-Up** — Java microservices bootcamp
 - 💬 Ask me about **FastAPI, NestJS, Asterisk/FreeSWITCH, microservices, Docker**
 - 📫 Reach me at **yeimar112003@gmail.com**
 
